@@ -1,2 +1,6 @@
-
-333测试555
+{
+  "version_code": 100000000,
+  "version_name": "1.0",
+  "changelog": {
+  }
+}
