@@ -2,7 +2,7 @@
   "version_code": 100000010,
   "version_name": "1.0.1",
   "changelog": {
-  "msg": "修复无法定位和无法获取天气状况的bug。"
+  "msg": "--修复无法定位和无法获取天气状况的bug。"
   },
   "force":{
   "type":1,
