@@ -5,9 +5,9 @@
   "msg": "修复无法定位和无法获取天气状况的bug。"
   },
   "force":{
-  "type":1,
-  "version_code": 100000000,
-  "status":false
+  "type":2,
+  "version_code": 100000010,
+  "status":true
   }
 }
 
