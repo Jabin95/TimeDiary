@@ -1,8 +1,8 @@
 {
-  "version_code": 100000010,
-  "version_name": "1.0.1",
+  "version_code": 100000020,
+  "version_name": "1.0.2",
   "changelog": {
-  "msg": "修复无法定位和无法获取天气状况的bug。"
+  "msg": "--添加删除图片、查看图片。"
   },
   "force":{
   "type":2,
